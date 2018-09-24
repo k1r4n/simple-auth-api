@@ -100,7 +100,7 @@ email: user@company.ext
 password: non-empty string
 ```
 
-### forresetgot passowrd
+### reset passowrd
 
 method :- PUT
 
