@@ -1,0 +1,32 @@
+{
+  "name": "simple-auth-api",
+  "version": "1.0.0",
+  "description": "Simple User Create, Login, Forgot and Rest API with Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k1r4n/simple-auth-api.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express.js",
+    "Authentication"
+  ],
+  "author": "Kiran Rajaram",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/k1r4n/simple-auth-api/issues"
+  },
+  "homepage": "https://github.com/k1r4n/simple-auth-api#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.1",
+    "bluebird": "^3.5.2",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "uuid": "^3.3.2",
+    "winston": "^3.1.0"
+  }
+}
