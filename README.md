@@ -1,6 +1,12 @@
 # simple-auth-api
 Simple User Create, Login, Forgot and Rest API with Nodejs
 
+## clone
+
+```
+git clone git@github.com:k1r4n/simple-auth-api.git
+```
+
 ## installation
 
 ### docker
